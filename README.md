@@ -20,4 +20,5 @@ streamlit run src/dca_calculator/app.py
 ⚠️ *This simulation does not take into account inflation, taxes, fees or market volatility. It is intended for educational and illustrative purposes only.*
 
 Built by
-Volodymyr Levkusha / LVKSH ©
+Volodymyr Levkusha 
+/ LVKSH ©
