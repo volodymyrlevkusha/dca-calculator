@@ -10,11 +10,10 @@ The calculation is based on a standard **compound interest model**:
 
 To run locally:
 
-git clone https://github.com/yourusername/dca-calculator.git  
-cd dca-calculator  
-pip install -r requirements.txt  
-streamlit run src/dca_calculator/app.py  
-
+git clone https://github.com/volodymyrlevkusha/dca-calculator.git
+cd dca-calculator
+pip install -r requirements.txt
+streamlit run src/dca_calculator/app.py
 
 ⚠️ *This simulation does not take into account inflation, taxes, fees or market volatility. It is intended for educational and illustrative purposes only.*
 
