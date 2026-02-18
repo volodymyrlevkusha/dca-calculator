@@ -17,6 +17,8 @@ cd dca-calculator
 pip install -r requirements.txt
 streamlit run src/dca_calculator/app.py
 
+/// Improvements in progress.
+
 ⚠️ *This simulation does not take into account inflation, taxes, fees or market volatility. It is intended for educational and illustrative purposes only.*
 
 Built by
