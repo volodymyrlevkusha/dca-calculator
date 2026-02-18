@@ -1,4 +1,4 @@
-# 🚀 DCA Calculator by LVKSH ©
+#DCA Calculator by LVKSH ©
 
 A simple **Dollar Cost Averaging** calculator built with **Python** and **Streamlit**.
 
@@ -8,7 +8,7 @@ The calculation is based on a standard **compound interest model**:
 
 **monthly_rate = (1 + APY)^(1/12) - 1**
 
-🌍 **Live app**:
+**Live app**:
 https://dca-calculator-by-lvksh.streamlit.app/
 
 To run locally:
@@ -19,7 +19,7 @@ streamlit run src/dca_calculator/app.py
 
 /// Improvements in progress.
 
-⚠️ *This simulation does not take into account inflation, taxes, fees or market volatility. It is intended for educational and illustrative purposes only.*
+*This simulation does not take into account inflation, taxes, fees or market volatility. It is intended for educational and illustrative purposes only.*
 
 Built by
 Volodymyr Levkusha 
