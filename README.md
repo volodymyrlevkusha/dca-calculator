@@ -8,8 +8,10 @@ The calculation is based on a standard **compound interest model**:
 
 **monthly_rate = (1 + APY)^(1/12) - 1**
 
-To run locally:
+🌍 **Live app**:
+https://dca-calculator-by-lvksh.streamlit.app/
 
+To run locally:
 git clone https://github.com/volodymyrlevkusha/dca-calculator.git
 cd dca-calculator
 pip install -r requirements.txt
@@ -17,6 +19,5 @@ streamlit run src/dca_calculator/app.py
 
 ⚠️ *This simulation does not take into account inflation, taxes, fees or market volatility. It is intended for educational and illustrative purposes only.*
 
-Author  
+Built by
 Volodymyr Levkusha / LVKSH ©
-@lvksh.py
